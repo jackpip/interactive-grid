@@ -1,0 +1,16 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 2px solid white;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+}
+
+#container {
+    height: 560px;
+    width: 560px;
+}
